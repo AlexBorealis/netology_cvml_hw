@@ -1,4 +1,4 @@
-netology_cvml_hw
+# netology_cvml_hw
 
 homework 1 - kozlov_cvml_hw_1.ipynb
 
